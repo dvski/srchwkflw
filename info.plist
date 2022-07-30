@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>bundleid</key>
-	<string>com.cewebsearch.workflow</string>
+	<string>com.cewebsearch.alfredworkflow</string>
 	<key>connections</key>
 	<dict/>
 	<key>createdby</key>
